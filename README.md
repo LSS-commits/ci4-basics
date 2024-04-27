@@ -3,10 +3,12 @@ A basic project to learn using CodeIgniter 4.
 
 
 ## My resources
-[CI4 Documentation](https://codeigniter.com/user_guide/intro/index.html)
-[Tutorial by Alex Lancer](https://www.youtube.com/watch?v=h_wBwi4u2pI&list=PLYogo31AXFBNi757lPJGD98d6pFq8bDnd&index=1)
-[Tutorial by GoPHP](https://www.youtube.com/watch?v=DXoQ26TDGcY&list=PL79xP87McblnMZG-F1hnRLuMgM5C95nMG&index=1)
-[Adding React as front-end](https://www.youtube.com/watch?v=OUdx6jpV2VI&list=PLQBsSZ4qJdGlcpHxII3nPvFM6AQvE-875&index=1)
+- [CI4 Documentation](https://codeigniter.com/user_guide/intro/index.html)
+- [Tutorial by Alex Lancer](https://www.youtube.com/watch?v=h_wBwi4u2pI&list=PLYogo31AXFBNi757lPJGD98d6pFq8bDnd&index=1)
+- [Tutorial by GoPHP](https://www.youtube.com/watch?v=DXoQ26TDGcY&list=PL79xP87McblnMZG-F1hnRLuMgM5C95nMG&index=1)
+
+## Proposed imporvements
+- [Adding React as front-end](https://www.youtube.com/watch?v=OUdx6jpV2VI&list=PLQBsSZ4qJdGlcpHxII3nPvFM6AQvE-875&index=1)
 
 
 ## CodeIgniter 4 Application Starter
